@@ -34,7 +34,7 @@ stages:
   jobs:
   - job: BuildJob
     pool:
-      vmImage: $(vmImageName)
+      name: MyAgentPool
     steps:
     - task: UsePythonVersion@0
       inputs:
