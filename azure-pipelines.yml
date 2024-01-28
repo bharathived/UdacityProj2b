@@ -11,7 +11,7 @@ pool:
 
 variables:
   ## Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: '<youridhere>'
+  azureServiceConnectionId: '7830d897-be2f-47e8-826c-fc38b4760138'
   
   ## Web app name
   webAppName: 'flaskweppapp2'
