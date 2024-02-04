@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/bharathived/UdacityProj2b/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/bharathived/UdacityProj2b/actions/workflows/pythonapp.yml)
+
 # Overview
 
 This project is to set continuous delivery of Web application using Azure technologies -Azure Piplelines and Azure Web App Services
