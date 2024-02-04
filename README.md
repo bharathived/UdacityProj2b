@@ -1,6 +1,6 @@
 # Overview
 
-This project is to set continuous delivery of Web applicatiob using Azure technologies -Azure Piplelines abd 
+This project is to set continuous delivery of Web application using Azure technologies -Azure Piplelines and Azure Web App Services
 
 ## Project Plan
  For the project plan ,we are using trello board to monitor our progress as a team and initial planning for quarter and sprints is done using project management spreadsheet as shown below:
@@ -29,10 +29,13 @@ Architecture of key parts:
 ![Alt text](image-2.png)
 * Output of a test run
 ![Alt text](image-5.png)
+* Output of a Load testing- Locust
+![Alt text](image-8.png)
+
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
-
+![Alt text](image-9.png)
 * Running Azure App Service from Azure Pipelines automatic deployment
-
+![Alt text](image-10.png)
 * Successful prediction from deployed flask app in Azure Cloud Shell.  ![Alt text](image-6.png).
 The output should look similar to this:
 
@@ -48,6 +51,7 @@ Port: 443
 
 ## Enhancements
 Enhance this project to work on the latest python libraries instead of a specified or specific version.
+
 
 ## Demo 
 
